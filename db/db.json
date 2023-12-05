@@ -17,26 +17,6 @@
     }
   ],
   "users": [
-    {
-      "id": 1,
-      "lastName": "ANgger",
-      "fullName": "Amin",
-      "email": "anggern514@gmail.com",
-      "password": "ANgger123"
-    },
-    {
-      "id": 2,
-      "lastName": "ANgger",
-      "fullName": "Amin",
-      "email": "anggern514@gmail.com",
-      "password": "ANgger123"
-    },
-    {
-      "id": 3,
-      "lastName": "ANgger",
-      "fullName": "Amin",
-      "email": "anggern514@gmail.com",
-      "password": "ANgger123"
-    }
+    
   ]
 }
